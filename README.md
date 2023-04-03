@@ -38,6 +38,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	5.		| Value Types (@Embeddable and @Embedded)					| 3a180b9866b2c816119cfa36f06c8fd7dce37fa2				|
 | 	6.		| @ElementCollection										| 21204e89f54afedc9623594377a0cd0840775554				|
 | 	7.		| @ElementCollection - Custom Table name					| d2cd05203230333b97b1e305e2d902f8282261ac				|
+| 	8.		| Associations - One to One Mapping							| 9b361b8f2f410cd48ddd9de2a5a1e31a96f11d22				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
