@@ -11,18 +11,18 @@ Contains the legacy hibernate code which uses the hibernate.cfg.xml file.
 	
 Apache Derby 
 -----------------------------------	
-1. Download the Apache Derby from url: https://db.apache.org/derby/derby_downloads.html
-	Select the version to download based on your JDK version.  
+1. Download the Apache Derby from url: https://db.apache.org/derby/derby_downloads.html\
+	Select the version to download based on your JDK version.\  
 		Mine is JDK 11 so downloaded version 10.15.2.0 --> db-derby-10.15.2.0-bin.zip  (As this need not be installed)
 
 2. Unzip the db-derby-10.15.2.0-bin.zip to its own folder
 
-3. Navigate to the bin folder  
-	Start the server --> By running the startNetworkServer.bat on windows or startNetworkServer on linux
+3. Navigate to the bin folder\ 
+	Start the server --> By running the startNetworkServer.bat on windows or startNetworkServer on linux\
 	Start the client --> By running the ij.bat on windows and ij on linux
 
-4. Connect to the db using the command
-	connect ’jdbc:derby://localhost:1527/db;create=true’
+4. Connect to the db using the command\
+	connect ’jdbc:derby://localhost:1527/db;create=true’;\
 	show tables; -- list all the tables
 
 
