@@ -5,9 +5,9 @@
 -->
 
 Contains the legacy hibernate code which uses the hibernate.cfg.xml file.  
-	All the examples uses mostly the same classes but placed in different packages.  
-	Just uncomment the classes of the package that needs to be executed and commented out the remaining classes in hibernate.cfg.xml file.  
-	Run the HibernateTest class.  
+&emsp;All the examples uses mostly the same classes but placed in different packages.  
+&emsp;Just uncomment the classes of the package that needs to be executed and commented out the remaining classes in hibernate.cfg.xml file.  
+&emsp;Run the HibernateTest class.  
 	
 Apache Derby 
 -----------------------------------	
