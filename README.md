@@ -35,7 +35,8 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	2.		| First Entity												| 6a7391b1f74fcc05a349943bf00a339f24c1bf48				|
 | 	3.		| Fetch Data from DB										| fb8f552cc4eb60f1f9dcb0e67486e9cdf9789aea				|
 | 	4.		| Id Generated												| 785b7c694edd52c4f9108b1046d4cbfab9d4a7aa				|
-| 	5.		| Value Types (Embeddable and Embedded)						| 3a180b9866b2c816119cfa36f06c8fd7dce37fa2				|
+| 	5.		| Value Types (@Embeddable and @Embedded)					| 3a180b9866b2c816119cfa36f06c8fd7dce37fa2				|
+| 	6.		| @ElementCollection										| 21204e89f54afedc9623594377a0cd0840775554				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
