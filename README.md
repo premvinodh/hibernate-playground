@@ -12,8 +12,8 @@ Contains the legacy hibernate code which uses the hibernate.cfg.xml file.
 Apache Derby 
 -----------------------------------	
 1. Download the Apache Derby from url: https://db.apache.org/derby/derby_downloads.html  
-	Select the version to download based on your JDK version.  
-		Mine is JDK 11 so downloaded version 10.15.2.0 --> db-derby-10.15.2.0-bin.zip  (As this need not be installed)  
+   &nbsp;Select the version to download based on your JDK version.  
+   &emsp;Mine is JDK 11 so downloaded version 10.15.2.0 --> db-derby-10.15.2.0-bin.zip  (As this need not be installed)  
 
 2. Unzip the db-derby-10.15.2.0-bin.zip to its own folder
 
