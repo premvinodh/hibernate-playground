@@ -29,8 +29,9 @@
 		<!-- <property name="hbm2ddl.auto">update</property>-->
 		
 		<!-- Names the annotated entity class -->
-		<!-- <mapping class="com.playgroup.my.hibernate_training.aaa.firstentity.Customer" /> -->
-		<mapping class="com.playgroup.my.hibernate_training.aab.fetchdatafromdb.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aaa.firstentity.Customer" /> 		-->
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aab.fetchdatafromdb.Customer" /> 	-->
+		<mapping class="com.playgroup.my.hibernate_training.aac.idgeneratedvalue.Customer" />
 		
 	</session-factory>
 </hibernate-configuration>
