@@ -31,7 +31,10 @@
 		<!-- Names the annotated entity class -->
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aaa.firstentity.Customer" /> 		-->
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aab.fetchdatafromdb.Customer" /> 	-->
-		<mapping class="com.playgroup.my.hibernate_training.aac.idgeneratedvalue.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aac.idgeneratedvalue.Customer" />	-->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aad.valuetypes.Address" /> 
+		<mapping class="com.playgroup.my.hibernate_training.aad.valuetypes.Customer" />
 		
 	</session-factory>
 </hibernate-configuration>
