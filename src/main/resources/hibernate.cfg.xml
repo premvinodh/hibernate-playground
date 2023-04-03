@@ -39,8 +39,11 @@
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aae.collections.Address" /> 
 		<mapping class="com.playgroup.my.hibernate_training.aae.collections.Customer" />			-->
 		
-		<mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Address" /> 
-		<mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Address" /> 
+		<mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Customer" />		-->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aag.mappings.onetoone.Address" /> 
+		<mapping class="com.playgroup.my.hibernate_training.aag.mappings.onetoone.Customer" />
 		
 	</session-factory>
 </hibernate-configuration>
