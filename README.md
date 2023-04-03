@@ -18,12 +18,12 @@ Apache Derby
 2. Unzip the db-derby-10.15.2.0-bin.zip to its own folder
 
 3. Navigate to the bin folder  
-	Start the server --> By running the startNetworkServer.bat on windows or startNetworkServer on linux  
-	Start the client --> By running the ij.bat on windows and ij on linux
+   &nbsp;Start the server --> By running the startNetworkServer.bat on windows or startNetworkServer on linux  
+   &nbsp;Start the client --> By running the ij.bat on windows and ij on linux
 
 4. Connect to the db using the command  
-	connect ’jdbc:derby://localhost:1527/db;create=true’;  
-	show tables; -- list all the tables  
+   &nbsp;connect ’jdbc:derby://localhost:1527/db;create=true’;  
+   &nbsp;show tables; -- list all the tables  
 
 Commits and their associated topics 
 -----------------------------------
