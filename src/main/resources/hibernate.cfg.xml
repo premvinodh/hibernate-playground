@@ -29,40 +29,40 @@
 		<!-- <property name="hbm2ddl.auto">update</property>-->
 		
 		<!-- Names the annotated entity class -->
-		<!-- <mapping class="com.playgroup.my.hibernate_training.aaa.firstentity.Customer" /> 		-->
-		<!-- <mapping class="com.playgroup.my.hibernate_training.aab.fetchdatafromdb.Customer" /> 	-->
-		<!-- <mapping class="com.playgroup.my.hibernate_training.aac.idgeneratedvalue.Customer" />	-->
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aaa.firstentity.Customer" /> 							-->
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aab.fetchdatafromdb.Customer" /> 						-->
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aac.idgeneratedvalue.Customer" />						-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aad.valuetypes.Address" /> 
-		<mapping class="com.playgroup.my.hibernate_training.aad.valuetypes.Customer" />				-->
+		<mapping class="com.playgroup.my.hibernate_training.aad.valuetypes.Customer" />									-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aae.collections.Address" /> 
-		<mapping class="com.playgroup.my.hibernate_training.aae.collections.Customer" />			-->
+		<mapping class="com.playgroup.my.hibernate_training.aae.collections.Customer" />								-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Address" /> 
-		<mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Customer" />		-->
+		<mapping class="com.playgroup.my.hibernate_training.aaf.coll.customtable.Customer" />							-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aag.mappings.onetoone.Address" /> 
-		<mapping class="com.playgroup.my.hibernate_training.aag.mappings.onetoone.Customer" />		-->
+		<mapping class="com.playgroup.my.hibernate_training.aag.mappings.onetoone.Customer" />							-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aah.mappings.onetomany.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aah.mappings.onetomany.Customer" />		-->
+		<mapping class="com.playgroup.my.hibernate_training.aah.mappings.onetomany.Customer" />							-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Customer" /> -->
+		<mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Customer" /> 				-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Customer" /> -->
+		<mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Customer" /> 			-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Customer" /> -->
+		<mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Customer" /> 						-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aal.mappings.manytomany.mappedby.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aal.mappings.manytomany.mappedby.Customer" /> -->
+		<mapping class="com.playgroup.my.hibernate_training.aal.mappings.manytomany.mappedby.Customer" /> 				-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aam.inheritance.singletablestrategy.Customer" />
 		<mapping class="com.playgroup.my.hibernate_training.aam.inheritance.singletablestrategy.RegularCustomer" />
-		<mapping class="com.playgroup.my.hibernate_training.aam.inheritance.singletablestrategy.IrregularCustomer" /> -->
+		<mapping class="com.playgroup.my.hibernate_training.aam.inheritance.singletablestrategy.IrregularCustomer" /> 	-->
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.Customer" />
 		<mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.RegularCustomer" />
@@ -70,13 +70,15 @@
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.Customer" />
 		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.RegularCustomer" />
-		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.IrregularCustomer" /> -->
+		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.IrregularCustomer" /> 		-->
 		
-		<!-- <mapping class="com.playgroup.my.hibernate_training.aap.crud.operations.Customer" />	-->
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aap.crud.operations.Customer" />						-->
 		
-		<!-- <mapping class="com.playgroup.my.hibernate_training.aaq.persistent.detached.transientobj.Customer" />	 -->
-
-		<mapping class="com.playgroup.my.hibernate_training.aar.namedqueries.hql.CustomerDetail" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aaq.persistent.detached.transientobj.Customer" />	 	-->
+	
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aar.namedqueries.hql.CustomerDetail" />			 	-->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aas.namedqueries.sql.CustomerDetail" />
 			
 	</session-factory>
 </hibernate-configuration>
