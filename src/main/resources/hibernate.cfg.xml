@@ -54,8 +54,11 @@
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Address" />
 		<mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Customer" /> -->
 		
-		<mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Address" />
+		<mapping class="com.playgroup.my.hibernate_training.aak.mappings.manytomany.Customer" /> -->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aal.mappings.manytomany.mappedby.Address" />
+		<mapping class="com.playgroup.my.hibernate_training.aal.mappings.manytomany.mappedby.Customer" />
 		
 	</session-factory>
 </hibernate-configuration>
