@@ -64,9 +64,13 @@
 		<mapping class="com.playgroup.my.hibernate_training.aam.inheritance.singletablestrategy.RegularCustomer" />
 		<mapping class="com.playgroup.my.hibernate_training.aam.inheritance.singletablestrategy.IrregularCustomer" /> -->
 		
-		<mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.Customer" />
 		<mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.RegularCustomer" />
-		<mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.IrregularCustomer" />
+		<mapping class="com.playgroup.my.hibernate_training.aan.inheritance.tableperclassstrategy.IrregularCustomer" /> -->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.Customer" />
+		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.RegularCustomer" />
+		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.IrregularCustomer" />
 		
 	</session-factory>
 </hibernate-configuration>
