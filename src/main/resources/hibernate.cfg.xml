@@ -74,7 +74,9 @@
 		
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aap.crud.operations.Customer" />	-->
 		
-		<mapping class="com.playgroup.my.hibernate_training.aaq.persistent.detached.transientobj.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aaq.persistent.detached.transientobj.Customer" />	 -->
+
+		<mapping class="com.playgroup.my.hibernate_training.aar.namedqueries.hql.CustomerDetail" />
 			
 	</session-factory>
 </hibernate-configuration>
