@@ -48,8 +48,11 @@
 		<!-- <mapping class="com.playgroup.my.hibernate_training.aah.mappings.onetomany.Address" />
 		<mapping class="com.playgroup.my.hibernate_training.aah.mappings.onetomany.Customer" />		-->
 		
-		<mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Address" />
-		<mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Address" />
+		<mapping class="com.playgroup.my.hibernate_training.aai.mappings.onetomany.jointable.Customer" /> -->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Address" />
+		<mapping class="com.playgroup.my.hibernate_training.aaj.mappings.manytoone.relationtable.Customer" />
 		
 	</session-factory>
 </hibernate-configuration>
