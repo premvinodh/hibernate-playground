@@ -40,6 +40,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	7.		| @ElementCollection - Custom Table name					| d2cd05203230333b97b1e305e2d902f8282261ac				|
 | 	8.		| Associations - One to One Mapping 						| 9b361b8f2f410cd48ddd9de2a5a1e31a96f11d22				|
 | 	9.		| Associations - One to Many Mapping 						| 90368f71b72c437035546ebf57f911d329561873				|
+| 	10.		| Associations - One to Many Mapping - @JoinTable			| 27d2d28d22aeed3abf1bcdbfe76262912a7d673c				|
 
 
 ### How to get certain commit from GitHub project
