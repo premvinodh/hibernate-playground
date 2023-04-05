@@ -49,6 +49,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	16.		| Inheritance - Joined Strategy										| 306eb1703bdf66607a23c6548c559b541200886d				|
 | 	17.		| CRUD Operations													| 824e6f71eef7216f917542450016334a47a9bbde				|
 | 	18.		| Hibernate Lifecycle - Transient, Persistent, Detached Objects		| 29b9bfcf179ef21b5e5579ba1b68b854ee14db7d				|
+| 	19.		| Named Queries - HQL												| b3d9bd16e53d96f896b33aec7be32a407bfd6b5e				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
