@@ -43,6 +43,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	10.		| Associations - One to Many Mapping - @JoinTable			| 27d2d28d22aeed3abf1bcdbfe76262912a7d673c				|
 | 	11.		| Associations - Many to One Mapping						| e21979240f442334fcd7da9a8672af4a7252d9fa				|
 | 	12.		| Associations - Many to Many Mapping - Without mappedBy	| 11bb1c7731a290d92b88d8c0d096607f192df0de				|
+| 	13.		| Associations - Many to Many Mapping - With mappedBy		| 5273d41d7b83e44977ca9da60530ded357b959ab				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
