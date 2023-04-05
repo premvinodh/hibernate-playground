@@ -47,6 +47,7 @@ Refer the section below on how to [get a specific commit(https://github.com/prem
 | 	14.		| Inheritance - Single Table Strategy						| 0c0bff5323b022d81a1311e6fcce323cc6b5a947				|
 | 	15.		| Inheritance - Table per Class Strategy					| 888818812abdae0ae86400cbf8f343c1b6908979				|
 | 	16.		| Inheritance - Joined Strategy								| 306eb1703bdf66607a23c6548c559b541200886d				|
+| 	17.		| CRUD Operations											| 824e6f71eef7216f917542450016334a47a9bbde				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
