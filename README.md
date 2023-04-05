@@ -29,25 +29,26 @@ Commits and their associated topics
 -----------------------------------
 Refer the section below on how to [get a specific commit(https://github.com/premvinodh/microservices#how-to-get-certain-commit-from-github-project)].
 
-| Sl.No		| Topic                                       				| Commit Hash           								|
-|:---------:|-----------------------------------------------------------|:-----------------------------------------------------:|
-| 	1.		| Initial Project files commit								| 968e29b8750cc6f47b27db65e87d732ad3d50019				|
-| 	2.		| First Entity												| 6a7391b1f74fcc05a349943bf00a339f24c1bf48				|
-| 	3.		| Fetch Data from DB										| fb8f552cc4eb60f1f9dcb0e67486e9cdf9789aea				|
-| 	4.		| Id Generated												| 785b7c694edd52c4f9108b1046d4cbfab9d4a7aa				|
-| 	5.		| Value Types (@Embeddable and @Embedded)					| 3a180b9866b2c816119cfa36f06c8fd7dce37fa2				|
-| 	6.		| @ElementCollection										| 21204e89f54afedc9623594377a0cd0840775554				|
-| 	7.		| @ElementCollection - Custom Table name					| d2cd05203230333b97b1e305e2d902f8282261ac				|
-| 	8.		| Associations - One to One Mapping 						| 9b361b8f2f410cd48ddd9de2a5a1e31a96f11d22				|
-| 	9.		| Associations - One to Many Mapping 						| 90368f71b72c437035546ebf57f911d329561873				|
-| 	10.		| Associations - One to Many Mapping - @JoinTable			| 27d2d28d22aeed3abf1bcdbfe76262912a7d673c				|
-| 	11.		| Associations - Many to One Mapping						| e21979240f442334fcd7da9a8672af4a7252d9fa				|
-| 	12.		| Associations - Many to Many Mapping - Without mappedBy	| 11bb1c7731a290d92b88d8c0d096607f192df0de				|
-| 	13.		| Associations - Many to Many Mapping - With mappedBy		| 5273d41d7b83e44977ca9da60530ded357b959ab				|
-| 	14.		| Inheritance - Single Table Strategy						| 0c0bff5323b022d81a1311e6fcce323cc6b5a947				|
-| 	15.		| Inheritance - Table per Class Strategy					| 888818812abdae0ae86400cbf8f343c1b6908979				|
-| 	16.		| Inheritance - Joined Strategy								| 306eb1703bdf66607a23c6548c559b541200886d				|
-| 	17.		| CRUD Operations											| 824e6f71eef7216f917542450016334a47a9bbde				|
+| Sl.No		| Topic                                       						| Commit Hash           								|
+|:---------:|-------------------------------------------------------------------|:-----------------------------------------------------:|
+| 	1.		| Initial Project files commit										| 968e29b8750cc6f47b27db65e87d732ad3d50019				|
+| 	2.		| First Entity														| 6a7391b1f74fcc05a349943bf00a339f24c1bf48				|
+| 	3.		| Fetch Data from DB												| fb8f552cc4eb60f1f9dcb0e67486e9cdf9789aea				|
+| 	4.		| Id Generated														| 785b7c694edd52c4f9108b1046d4cbfab9d4a7aa				|
+| 	5.		| Value Types (@Embeddable and @Embedded)							| 3a180b9866b2c816119cfa36f06c8fd7dce37fa2				|
+| 	6.		| @ElementCollection												| 21204e89f54afedc9623594377a0cd0840775554				|
+| 	7.		| @ElementCollection - Custom Table name							| d2cd05203230333b97b1e305e2d902f8282261ac				|
+| 	8.		| Associations - One to One Mapping 								| 9b361b8f2f410cd48ddd9de2a5a1e31a96f11d22				|
+| 	9.		| Associations - One to Many Mapping 								| 90368f71b72c437035546ebf57f911d329561873				|
+| 	10.		| Associations - One to Many Mapping - @JoinTable					| 27d2d28d22aeed3abf1bcdbfe76262912a7d673c				|
+| 	11.		| Associations - Many to One Mapping								| e21979240f442334fcd7da9a8672af4a7252d9fa				|
+| 	12.		| Associations - Many to Many Mapping - Without mappedBy			| 11bb1c7731a290d92b88d8c0d096607f192df0de				|
+| 	13.		| Associations - Many to Many Mapping - With mappedBy				| 5273d41d7b83e44977ca9da60530ded357b959ab				|
+| 	14.		| Inheritance - Single Table Strategy								| 0c0bff5323b022d81a1311e6fcce323cc6b5a947				|
+| 	15.		| Inheritance - Table per Class Strategy							| 888818812abdae0ae86400cbf8f343c1b6908979				|
+| 	16.		| Inheritance - Joined Strategy										| 306eb1703bdf66607a23c6548c559b541200886d				|
+| 	17.		| CRUD Operations													| 824e6f71eef7216f917542450016334a47a9bbde				|
+| 	18.		| Hibernate Lifecycle - Transient, Persistent, Detached Objects		| 29b9bfcf179ef21b5e5579ba1b68b854ee14db7d				|
 
 ### How to get certain commit from GitHub project
 ------------------------------------------------
