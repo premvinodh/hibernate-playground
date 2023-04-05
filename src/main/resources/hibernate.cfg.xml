@@ -72,7 +72,9 @@
 		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.RegularCustomer" />
 		<mapping class="com.playgroup.my.hibernate_training.aao.inheritance.joinedstrategy.IrregularCustomer" /> -->
 		
-		<mapping class="com.playgroup.my.hibernate_training.aap.crud.operations.Customer" />
+		<!-- <mapping class="com.playgroup.my.hibernate_training.aap.crud.operations.Customer" />	-->
+		
+		<mapping class="com.playgroup.my.hibernate_training.aaq.persistent.detached.transientobj.Customer" />
 			
 	</session-factory>
 </hibernate-configuration>
